@@ -1,1 +1,1 @@
-## Welcome to the Github page of the Advanced Programming (AP) course presented at University of Tehran.
+## Welcome to the GitHub page of the Advanced Programming (AP) course, presented at the University of Tehran.
